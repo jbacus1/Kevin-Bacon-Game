@@ -8,5 +8,5 @@
 ### Data files
 
 - actors.txt: Gives a number to each actor in a list of actors
-- movie-actors.txt: Pairs movies to actors using their numerical representations from 'actors.txt' and 'movies.txt'
+- movie-actors.txt: Pairs movies to actors using their numerical representations from `actors.txt` and `movies.txt`
 - movies.txt: Gives a number to each movie in a list of movies
