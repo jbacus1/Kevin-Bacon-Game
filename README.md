@@ -46,6 +46,12 @@ This game uses a graph of actors and movies to find the shortest path between tw
 
 ---
 
+## Enjoy!
+
+![GameInAction](./game_in_action.png)
+
+---
+
 ## Acknowledgments
 
 Developed as part of the Dartmouth CS curriculum, Winter 2024.
